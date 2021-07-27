@@ -3,8 +3,10 @@
 
 *引擎 : Unreal 4、Wwise 2021*
 ___
-## 启动说明
+## Wwise启动说明
+*非音频相关工作可以无视*
 * 由于Wwise Plugin过于庞大，不做版本管理
+* 确保系统中安装了Wwise 2021.1.2以保证Wwise插件正常运行
 * 需要将TRUENAS/Public/TheDude/ProjectBackup/Plugins中的Wwise文件夹复制到工程的Plugins目录中
 * 也可通过Wwise Launcher配置Plugins
 
