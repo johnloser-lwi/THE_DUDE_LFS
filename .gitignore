@@ -37,6 +37,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Wwise 
-Plugins/Wwise
+Plugins/Wwise/*
 *.wsettings
 *.validationcache
