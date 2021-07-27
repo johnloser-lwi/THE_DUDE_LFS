@@ -3,6 +3,12 @@
 
 *引擎 : Unreal 4、Wwise 2021*
 ___
+## 启动说明
+* 由于Wwise Plugin过于庞大，不做版本管理
+* 需要将TRUENAS/Public/TheDude/ProjectBackup/Plugins中的Wwise文件夹复制到工程的Plugins目录中
+* 也可通过Wwise Launcher配置Plugins
+
+___
 
 # 作者简介
 ![photo](https://losersworldindustries.com/wp-content/uploads/2021/07/WechatIMG121-1536x583.jpeg)
