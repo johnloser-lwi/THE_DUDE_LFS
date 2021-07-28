@@ -9,6 +9,7 @@ ___
 * 打开工程后点击上方"Source Control/Connect to Source Control"
 * "Provider"选为"Git"，点击"Accept Settings"完成配置
 * 对文件进行修改后点击"Source Control"即可完成提交
+* 右键项目根目录的"pull_push.ps1"选择"Run With PowerShell"推送到Github
 
 ## Wwise启动说明
 *非音频相关工作可以无视*
